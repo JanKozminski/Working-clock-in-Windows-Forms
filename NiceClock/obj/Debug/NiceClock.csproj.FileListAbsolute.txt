@@ -1,0 +1,11 @@
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\bin\Debug\NiceClock.exe.config
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\bin\Debug\NiceClock.exe
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\bin\Debug\NiceClock.pdb
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.csproj.AssemblyReference.cache
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.NiceClock.resources
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.Properties.Resources.resources
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.csproj.GenerateResource.cache
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.csproj.CoreCompileInputs.cache
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.exe
+C:\Users\i5\Desktop\C#\LINQ - notatki\Applikacja z plikiem CSV\NiceClock\NiceClock\obj\Debug\NiceClock.pdb
